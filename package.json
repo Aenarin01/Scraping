@@ -1,0 +1,23 @@
+{
+  "name": "parserscript",
+  "version": "1.0.0",
+  "description": "scraperScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aenarin01/Scraper.git"
+  },
+  "author": "Vladyslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aenarin01/Scraper/issues"
+  },
+  "homepage": "https://github.com/Aenarin01/Scraper#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
